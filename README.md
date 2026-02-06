@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou a Giovanna Petrilli 🌸
 
-<!--
-**giovannapetrilli/GiovannaPetrilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📊 Focada em Business Intelligence, análise de dados e UX  
+🌎 Buscando minha primeira oportunidade na área de tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+- SQL
+- AWS
+- Python
+- HTML, CSS e JavaScript
+- Git & GitHub
+
+---
+
+## 📈 Atualmente estudando
+
+- Business Intelligence (BI)
+- Análise de Dados
+- UX Research Quantitativo
+- Desenvolvimento web
+
+---
+
+## 🌱 Sobre mim
+
+Estou em transição para a área de tecnologia e construindo meu portfólio enquanto desenvolvo habilidades práticas em dados, BI e desenvolvimento.  
+Busco aprender continuamente e aplicar meus conhecimentos em projetos reais.
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn: https://www.linkedin.com/in/giovanapetrilli  
+📧 Email: giovana11petrilli@gmail.com
