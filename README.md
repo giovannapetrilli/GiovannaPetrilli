@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 - SQL
 - AWS
@@ -25,14 +25,14 @@
 
 ---
 
-## 🌱 Sobre mim
+##  Sobre mim
 
 Estou em transição para a área de tecnologia e construindo meu portfólio enquanto desenvolvo habilidades práticas em dados, BI e desenvolvimento.  
 Busco aprender continuamente e aplicar meus conhecimentos em projetos reais.
 
 ---
 
-## 📫 Contato
+##  Contato
 
 🔗 LinkedIn: https://www.linkedin.com/in/giovanapetrilli  
 📧 Email: giovana11petrilli@gmail.com
