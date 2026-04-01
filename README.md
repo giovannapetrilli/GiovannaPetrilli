@@ -34,5 +34,5 @@ Busco aprender continuamente e aplicar meus conhecimentos em projetos reais.
 
 ##  Contato
 
-🔗 LinkedIn: https://www.linkedin.com/in/giovanapetrilli  
+🔗 LinkedIn: https://www.linkedin.com/in/giovannapetrilli  
 📧 Email: giovana11petrilli@gmail.com
